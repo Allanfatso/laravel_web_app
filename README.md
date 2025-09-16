@@ -8,24 +8,23 @@
 </p>
 # Laravel 11 Project
 
-This is a Laravel 11 web application built as part of my developer portfolio. It is a movie-reviewing web-application.
+This is a Laravel 11 web application built as part of my developer portfolio. It is a movie-reviewing web-application. It uses the cusdis api to enable comments, and the html5 webspeech hardware api for better useability.
 
 ## Features
-- Authentication (Laravel Breeze/Jetstream if used)
-- CRUD functionality
+- Authentication (Laravel Breeze used)
+- CRUD functionality (adding reviews and user accounts)
 - Database migrations & seeders
-- RESTful API endpoints (if included)
-- Blade/Tailwind or Vue/React frontend
+- RESTful API endpoints (IMDB RapidAPI)
+- Blade/Tailwind  frontend 
 
-## 🛠️ Requirements
+## Requirements
 - PHP >= 8.2
 - Composer
-- Node.js & npm
-- MySQL/PostgreSQL (or your DB)
+- Node.js 
+- MySQL
 
-## ⚙️ Setup Instructions
-1. Clone the repo:
-   ```bash
+## Setup Instructions
+
    git clone https://github.com/Allanfatso/your-repo-name.git
    cd your-repo-name
 
