@@ -6,7 +6,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-# Laravel 11 Project
+## Laravel 11 Reel-Planet Movie Reviewing Project
 
 This is a Laravel 11 web application built as part of my developer portfolio. It is a movie-reviewing web-application. It uses the cusdis api to enable comments, and the html5 webspeech hardware api for better useability.
 
